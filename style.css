@@ -1,0 +1,18 @@
+body {
+	background: cyan;
+}
+
+.heading {
+	padding-top: 10px;
+	padding-bottom: 30px;
+}
+
+.add_padding_pls {
+	padding-left: 90px;
+}
+
+.pkmn-card {
+	width: 215px;
+	height: 300px;
+	margin: 15px;
+}
